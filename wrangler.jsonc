@@ -1,0 +1,7 @@
+{
+  "name":"cloudflare-imgbed",
+  "compatibility_data":"2025-08-08",
+  "assets":{
+    "directory":"./dist"
+  }
+}
